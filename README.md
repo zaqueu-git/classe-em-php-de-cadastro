@@ -1,4 +1,4 @@
-## Classe em PHP para cadastro
+## Classe em PHP de cadastro
 * Address
 * Cell
 * Client

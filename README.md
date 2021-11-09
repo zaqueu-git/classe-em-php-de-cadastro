@@ -1,2 +1,8 @@
-# classe-em-php-de-cadastro
-Classe em php de cadastro
+## Classe em PHP para cadastro
+* Address
+* Cell
+* Client
+* Email
+* PFdocuments
+* PJdocuments
+* Phone
